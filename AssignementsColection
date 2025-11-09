@@ -1,0 +1,46 @@
+Map (HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap)
+Beginner (10-15 assignments):
+
+1 Create a HashMap and perform put, get, remove operations
+
+2 Iterate through all keys, values, and entries of a Map
+
+3 Check if a key or value exists in a Map
+
+4 Copy all mappings from one Map to another
+
+5 Remove all entries from a Map that satisfy a condition
+
+6 Count frequency of characters in a string using HashMap
+
+7 Find the key with the highest value in a Map
+
+8 Sort a Map by keys and by values
+
+9 Check if two Maps are equal
+
+10 Create a nested Map structure (Map<String, Map<String, Integer>>)
+
+Intermediate (15-20 assignments):
+11. Store custom objects as keys in HashMap with proper hashCode()/equals()
+12. Implement a simple in-memory cache using LinkedHashMap
+13. Group objects by a property using Map (e.g., group employees by department)
+14. Find the first non-repeating character in string using LinkedHashMap
+15. Implement a word counter for large text files
+16. Create a method to merge two Maps with the same keys
+17. Implement a simple database index using TreeMap
+18. Find all pairs in array that sum to target using HashMap
+19. Design a voting system that counts votes for candidates
+20. Implement LRU Cache using LinkedHashMap
+
+Advanced/Architect (15-20 assignments):
+21. Implement a thread-safe cache with TTL (Time To Live) using ConcurrentHashMap
+22. Create a custom HashMap with fixed size and collision handling
+23. Design a distributed session storage system interface using Map
+24. Implement a multi-valued Map (Map<K, Collection<V>>)
+25. Create a Map that maintains access order statistics
+26. Benchmark HashMap vs TreeMap vs ConcurrentHashMap for various operations
+27. Implement a persistent Map using disk storage
+28. Design a rate limiter using Map to track request counts
+29. Create a Map with weak references for cache implementation
+30. Implement
